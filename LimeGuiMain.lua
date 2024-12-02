@@ -9,5 +9,7 @@
 
 Version: N/A
 Updated: 12/1/24
+[Made By: @limer0blox]
+Protected By LuaObfuscator
 --]]
 print("Soon...")
